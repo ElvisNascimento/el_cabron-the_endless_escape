@@ -1,4 +1,4 @@
-## el_cabron-the_endless_escape
+## El Cabron: The Endless Escape
 
 El Cabron: A Fuga Infinita
 “É um jogo feito em Unity que combina elementos de um endless runner com uma narrativa emocionante. Assuma o papel de El Cabron, um malandro texano que descobre que as histórias assustadoras contadas por seu avô na infância eram verdadeiras. Agora, um terrível monstro está atrás dele, forçando-o a correr sem parar.”
